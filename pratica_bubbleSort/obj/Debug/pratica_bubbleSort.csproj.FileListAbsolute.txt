@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\bin\Debug\pratica_bubbleSort.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\bin\Debug\pratica_bubbleSort.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\bin\Debug\pratica_bubbleSort.pdb
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\obj\Debug\pratica_bubbleSort.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\obj\Debug\pratica_bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\obj\Debug\pratica_bubbleSort.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_bubbleSort\obj\Debug\pratica_bubbleSort.pdb

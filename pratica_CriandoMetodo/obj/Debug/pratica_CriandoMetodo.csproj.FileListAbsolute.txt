@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\bin\Debug\pratica_CriandoMetodo.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\bin\Debug\pratica_CriandoMetodo.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\bin\Debug\pratica_CriandoMetodo.pdb
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\obj\Debug\pratica_CriandoMetodo.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\obj\Debug\pratica_CriandoMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\obj\Debug\pratica_CriandoMetodo.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_CriandoMetodo\obj\Debug\pratica_CriandoMetodo.pdb

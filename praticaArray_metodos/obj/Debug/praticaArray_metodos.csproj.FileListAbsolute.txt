@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\bin\Debug\praticaArray_metodos.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\bin\Debug\praticaArray_metodos.exe
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\bin\Debug\praticaArray_metodos.pdb
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\obj\Debug\praticaArray_metodos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\obj\Debug\praticaArray_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\obj\Debug\praticaArray_metodos.exe
+C:\Users\Guilherme\source\ConsoleApp1\praticaArray_metodos\obj\Debug\praticaArray_metodos.pdb

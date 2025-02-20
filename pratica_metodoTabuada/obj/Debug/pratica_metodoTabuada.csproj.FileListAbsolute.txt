@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\bin\Debug\pratica_metodoTabuada.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\bin\Debug\pratica_metodoTabuada.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\bin\Debug\pratica_metodoTabuada.pdb
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\obj\Debug\pratica_metodoTabuada.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\obj\Debug\pratica_metodoTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\obj\Debug\pratica_metodoTabuada.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoTabuada\obj\Debug\pratica_metodoTabuada.pdb

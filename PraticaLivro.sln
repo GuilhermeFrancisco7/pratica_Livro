@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor", "Vetor.csproj", "{F05EEA95-411D-48DA-868B-D9F81528BBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratica_bubbleSort", "pratica_bubbleSort\pratica_bubbleSort.csproj", "{83AE6DE9-E557-4D99-8965-87055BBDDCA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praticaArray_metodos", "praticaArray_metodos\praticaArray_metodos.csproj", "{605C86A0-28CB-4C87-AB27-DD641C0A6B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratica_CriandoMetodo", "pratica_CriandoMetodo\pratica_CriandoMetodo.csproj", "{56666EB4-B807-432C-812A-2438F82EE39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratica_metodoTabuada", "pratica_metodoTabuada\pratica_metodoTabuada.csproj", "{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +23,27 @@ Global
 		{F05EEA95-411D-48DA-868B-D9F81528BBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F05EEA95-411D-48DA-868B-D9F81528BBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F05EEA95-411D-48DA-868B-D9F81528BBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AE6DE9-E557-4D99-8965-87055BBDDCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AE6DE9-E557-4D99-8965-87055BBDDCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AE6DE9-E557-4D99-8965-87055BBDDCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AE6DE9-E557-4D99-8965-87055BBDDCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605C86A0-28CB-4C87-AB27-DD641C0A6B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605C86A0-28CB-4C87-AB27-DD641C0A6B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605C86A0-28CB-4C87-AB27-DD641C0A6B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605C86A0-28CB-4C87-AB27-DD641C0A6B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56666EB4-B807-432C-812A-2438F82EE39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56666EB4-B807-432C-812A-2438F82EE39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56666EB4-B807-432C-812A-2438F82EE39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56666EB4-B807-432C-812A-2438F82EE39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8790BFD-8ACC-40D2-9771-19663908C5F5}
 	EndGlobalSection
 EndGlobal

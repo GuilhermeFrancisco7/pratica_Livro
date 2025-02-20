@@ -5,3 +5,10 @@ C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\ConsoleApp1\obj\Debug\Vet
 C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\ConsoleApp1\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
 C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Guilherme\source\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Guilherme\source\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Guilherme\source\ConsoleApp1\obj\Debug\Vetor.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Guilherme\source\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

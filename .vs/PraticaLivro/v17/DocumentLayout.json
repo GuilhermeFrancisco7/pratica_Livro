@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F05EEA95-411D-48DA-868B-D9F81528BBDA}|Vetor.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}|pratica_metodoTabuada\\pratica_metodoTabuada.csproj|c:\\users\\guilherme\\source\\consoleapp1\\pratica_metodotabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6106C8-6B17-4179-BCEA-F8E9C5D97BB0}|pratica_metodoTabuada\\pratica_metodoTabuada.csproj|solutionrelative:pratica_metodotabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56666EB4-B807-432C-812A-2438F82EE39D}|pratica_CriandoMetodo\\pratica_CriandoMetodo.csproj|c:\\users\\guilherme\\source\\consoleapp1\\pratica_criandometodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56666EB4-B807-432C-812A-2438F82EE39D}|pratica_CriandoMetodo\\pratica_CriandoMetodo.csproj|solutionrelative:pratica_criandometodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605C86A0-28CB-4C87-AB27-DD641C0A6B61}|praticaArray_metodos\\praticaArray_metodos.csproj|C:\\Users\\Guilherme\\source\\ConsoleApp1\\praticaarray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605C86A0-28CB-4C87-AB27-DD641C0A6B61}|praticaArray_metodos\\praticaArray_metodos.csproj|solutionrelative:praticaarray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AE6DE9-E557-4D99-8965-87055BBDDCA4}|pratica_bubbleSort\\pratica_bubbleSort.csproj|C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE6DE9-E557-4D99-8965-87055BBDDCA4}|pratica_bubbleSort\\pratica_bubbleSort.csproj|solutionrelative:pratica_bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05EEA95-411D-48DA-868B-D9F81528BBDA}|Vetor.csproj|C:\\Users\\Guilherme\\source\\ConsoleApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05EEA95-411D-48DA-868B-D9F81528BBDA}|Vetor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:13:15.361Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_bubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "pratica_bubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_bubbleSort\\Program.cs",
+              "RelativeToolTip": "pratica_bubbleSort\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:49:37.674Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\praticaArray_metodos\\Program.cs",
+              "RelativeDocumentMoniker": "praticaArray_metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\praticaArray_metodos\\Program.cs",
+              "RelativeToolTip": "praticaArray_metodos\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:20:32.916Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_CriandoMetodo\\Program.cs",
+              "RelativeDocumentMoniker": "pratica_CriandoMetodo\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_CriandoMetodo\\Program.cs",
+              "RelativeToolTip": "pratica_CriandoMetodo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:23:16.701Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_metodoTabuada\\Program.cs",
+              "RelativeDocumentMoniker": "pratica_metodoTabuada\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\ConsoleApp1\\pratica_metodoTabuada\\Program.cs",
+              "RelativeToolTip": "pratica_metodoTabuada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T17:13:15.361Z",
+              "WhenOpened": "2025-02-20T16:43:21.95Z",
               "EditorCaption": ""
             }
           ]

@@ -10,51 +10,74 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Praticando Vetor
-            int[] mate = new int[5];
-            int[] cont = new int[4];
-            int poscont, posmat;
 
-            
-            // Iniciando o loop for para recebimento dos valores no vetor
+            ////Declarando dois vetores 
+            //int[] numeros = { 1, 2, 3, 4, 5 };
+            //string[] nomes = { "Ana", "João", "Maria", "Carlos" };
 
-            Console.WriteLine("Digite Mate");
+            ////Exibindo os elementos do vetor com loop for
+            //Console.WriteLine("Vetor de números (usando for):");
+            //for (int i = 0; i < numeros.Length; i++)
+            //{
+            //    Console.WriteLine(numeros[i]);
+            //}
 
-            for(posmat = 0; posmat < mate.Length; posmat++) 
+            ////Exibindo os elementos do vetor de nomes com loop foreach
+            //Console.WriteLine("\nVetor de Nomes (usando foreach):");
+            //foreach (var nome in nomes)
+            //{
+            //Console.WriteLine(nome);
+            //}
+
+
+            // Vetor de números para ordenar
+            int[] numeros = { 5, 3, 8, 4, 2 };
+
+            // Mostra o vetor original
+            Console.WriteLine("\n\nVetor Original:");
+            ExibirVetor(numeros);
+
+            Array.Sort(numeros);
+            foreach (int i in numeros)
             {
-                mate[posmat] = int.Parse(Console.ReadLine());
+                Console.Write(i + " ");
             }
 
-            Console.WriteLine("Cont");
+            // Bubble Sort
+            Console.WriteLine("\nVetor ordenado com Bubble Sort:");
+            BubbleSort(numeros);
+            ExibirVetor(numeros);
 
-            for (poscont = 0; poscont < cont.Length; poscont++)
+            Console.ReadLine();
+        }
+
+        // Função para exibir o vetor
+        static void ExibirVetor(int[] vetor)
+        {
+            foreach (var numero in vetor)
             {
-                cont[poscont] = int.Parse(Console.ReadLine());
+                Console.Write(numero + " ");
             }
+            Console.WriteLine();
+        }
 
-            // Iniciando os loops de comparação 
-
-            for (posmat = 0; posmat < mate.Length; posmat++)
+        // Implementação do Bubble Sort
+        static void BubbleSort(int[] vetor)
+        {
+            int n = vetor.Length;
+            for (int i = 0; i < n - 1; i++)
             {
-
-                for (poscont = 0; poscont < cont.Length; poscont++)
+                for (int j = 0; j < n - i - 1; j++)
                 {
-
-                    if (mate[posmat] == cont[poscont])
+                    if (vetor[j] > vetor[j + 1])
                     {
-                        Console.WriteLine($"Repitidos: {mate[posmat]}");
-                        break;
-
+                        // Troca os elementos
+                        int temp = vetor[j];
+                        vetor[j] = vetor[j + 1];
+                        vetor[j + 1] = temp;
                     }
-
                 }
             }
-
-
-           
-
-          
-
-        }
+        }    
     }
 }

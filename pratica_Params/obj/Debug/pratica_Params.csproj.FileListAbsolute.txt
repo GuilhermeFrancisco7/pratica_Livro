@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\bin\Debug\pratica_Params.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\bin\Debug\pratica_Params.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\bin\Debug\pratica_Params.pdb
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\obj\Debug\pratica_Params.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\obj\Debug\pratica_Params.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\obj\Debug\pratica_Params.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_Params\obj\Debug\pratica_Params.pdb

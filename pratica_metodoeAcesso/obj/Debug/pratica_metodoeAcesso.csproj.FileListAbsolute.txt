@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\bin\Debug\pratica_metodoeAcesso.exe.config
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\bin\Debug\pratica_metodoeAcesso.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\bin\Debug\pratica_metodoeAcesso.pdb
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\obj\Debug\pratica_metodoeAcesso.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\obj\Debug\pratica_metodoeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\obj\Debug\pratica_metodoeAcesso.exe
+C:\Users\Guilherme\source\ConsoleApp1\pratica_metodoeAcesso\obj\Debug\pratica_metodoeAcesso.pdb

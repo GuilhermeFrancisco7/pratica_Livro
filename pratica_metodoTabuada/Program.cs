@@ -32,7 +32,7 @@ namespace pratica_metodoTabuada
             bool si= true; // variável Booleana para controlar o laço While 
             
             
-            while (si) // laço de repetição while, acinado enquanto valor de bool si for 'Verdadeiro'
+            while (si) // laço de repetição while, acionado enquanto valor de bool 'si' for 'Verdadeiro'
             {
               
                 Tabuada(v1); // invocação/execução do metodo " o conjunto de intruções progamadas"
